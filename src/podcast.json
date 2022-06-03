@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "formvalue": {
+        "userName": "selvaguru",
+        "password": "12345",
+        "imageUrl": "http://res.cloudinary.com/dcmztntur/image/upload/v1653544000/zwus9hmgvff7bfebqicg.jpg"
+      },
+      "id": 1
+    }
+  ]
+}
